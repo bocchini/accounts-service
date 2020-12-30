@@ -1,0 +1,2 @@
+# accounts-service
+Service accounts
