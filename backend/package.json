@@ -1,0 +1,9 @@
+{
+  "name": "accounts-service",
+  "version": "1.0.0",
+  "description": "Service Accounts",
+  "main": "index.js",
+  "repository": "https://github.com/bocchini/accounts-service.git",
+  "author": "Américo L Bocchini <albocchini@gmail.com>",
+  "license": "MIT"
+}
